@@ -65,4 +65,4 @@ $mysqli->close();
 ```
 
 # 結果
-![alt text](./image/image.png)
+![alt text](./mysql_result.png)
